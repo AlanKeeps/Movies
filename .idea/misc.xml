@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/drawable/circle_red.xml" value="0.128" />
         <entry key="app/src/main/res/drawable/circle_yellow.xml" value="0.128" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/layout/activity_movie_detail.xml" value="0.56625" />
         <entry key="app/src/main/res/layout/movie_item.xml" value="0.2359375" />
       </map>
     </option>
